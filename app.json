@@ -1,0 +1,12 @@
+{
+    "name" : "TestingApp",
+    "description" : "App for demonstration",
+    "details" : "This is an app skeleton that can be used to develop or integrate all new customisations to your Tookan Dashboard",
+    "favicon" :  {
+        "path": "./index.jpeg"
+      },
+    "developer" : "Vaibhav Kaushik",
+    "abilities" : {
+    "side-menu" : true
+      }
+    }
